@@ -1,0 +1,29 @@
+Blogs:
+
+1. Machine Learning mastery: https://machinelearningmastery.com/ {Highly recommended} 
+
+2. Towards Data Science: https://towardsdatascience.com/ 
+
+3. Dataflair: https://data-flair.training/ 
+
+4. Dataquest: https://www.dataquest.io/ 
+
+
+
+Videos 
+
+1. Free code camp: https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ 
+
+3. Abhishek Thakur: https://www.youtube.com/channel/UCBPRJjIWfyNG4X-CRbnv78A 
+
+
+
+Courses  
+
+1. Machine Learning by Andrew Ng: https://www.coursera.org/learn/machine-learning {Must do}
+
+2. Deep Learning Specialization by Andrew Ng: https://www.coursera.org/specializations/deep-learning 
+
+3. IBM Data Science professional certification: https://www.coursera.org/professional-certificates/ibm-data-science? {An amazing starting point}
+
+4. NLP in TensorFlow: https://www.coursera.org/learn/natural-language-processing-tensorflow
